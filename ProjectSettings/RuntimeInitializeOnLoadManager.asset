@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!300 &1
+RuntimeInitializeOnLoadManager:
+  m_ObjectHideFlags: 0
+  m_AssemblyNames:
+  - PhotonRealtime
+  m_NamespaceNames:
+  - Photon.Realtime
+  m_ClassInfos:
+  - m_AssemblyNameIndex: 0
+    m_NamespaceIndex: 0
+    m_ClassName: ConnectionHandler
+    m_NumOfMethods: 1
+    m_MethodIndex: 0
+    m_IsUnityClass: 0
+  m_ClassMethodInfos:
+  - m_ClassIndex: 0
+    m_MethodName: StaticReset
+    m_OrderNumber: 0
+  m_BeforeUnityMethodExecutionOrders: []
+  m_AfterUnityMethodExecutionOrders: []
+  m_BeforeMethodExecutionOrders: []
+  m_AfterMethodExecutionOrders: []
+  m_AfterAssembliesLoadedUnityMethodExecutionOrders: []
+  m_AfterAssembliesLoadedMethodExecutionOrders: []
+  m_BeforeSplashScreenUnityMethodExecutionOrders: []
+  m_BeforeSplashScreenMethodExecutionOrders: []
+  m_SubsystemRegistrationUnityMethodExecutionOrders: []
+  m_SubsystemRegistrationMethodExecutionOrders:
+  - 0
+  m_FullClassNames: []

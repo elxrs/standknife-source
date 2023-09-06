@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -290429983, guid: ad08d65794d72842eed24787c8010ed4, type: 3}
+  m_Name: FMODStudioSettings
+  m_EditorClassIdentifier:
+  HasSourceProject: 0
+  HasPlatforms: 0
+  sourceProjectPath:
+  sourceBankPath: Assets/ZOther/Bank
+  SourceBankPathUnformatted:
+  BankRefreshCooldown: 5
+  ShowBankRefreshWindow: 0
+  AutomaticEventLoading: 1
+  BankLoadType: 0
+  AutomaticSampleLoading: 0
+  EncryptionKey:
+  ImportType: 0
+  TargetAssetPath: FMODBanks
+  TargetBankFolder:
+  EventLinkage: 0
+  LoggingLevel: 2
+  SpeakerModeSettings: []
+  SampleRateSettings: []
+  LiveUpdateSettings: []
+  OverlaySettings: []
+  LoggingSettings: []
+  BankDirectorySettings: []
+  VirtualChannelSettings: []
+  RealChannelSettings: []
+  Plugins: []
+  MasterBanks:
+  - Master Bank
+  Banks:
+  - Ambience
+  - Arena
+  - Bomb Voice
+  - Capture
+  - Character
+  - Music Gameplay
+  - New Year 2022
+  - Polygon
+  - Province
+  - Rust
+  - Sakura
+  - Sandstone
+  - Sandyards
+  - Training Outside
+  - Village
+  - Weapon
+  - Zone9
+  BanksToLoad: []
+  LiveUpdatePort: 9264
+  EnableMemoryTracking: 0
+  AndroidUseOBB: 0
+  MeterChannelOrdering: 0
+  StopEventsOutsideMaxDistance: 0
+  BoltUnitOptionsBuildPending: 0
+  EnableErrorCallback: 0
+  SharedLibraryUpdateStage: 0
+  SharedLibraryTimeSinceStart: 0
+  CurrentVersion: 131588
+  HideSetupWizard: 1
+  LastEventReferenceScanVersion: 131588
+  Platforms:
+  - {fileID: 11400000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  - {fileID: 11400000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  - {fileID: 11400000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  - {fileID: 11400000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  - {fileID: 11400000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  - {fileID: 11400000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  - {fileID: 11400000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  - {fileID: 11400000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  - {fileID: 11400000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  - {fileID: 11400000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  - {fileID: 11400000, guid: 0000000deadbeef15deadf00d0000000, type: 3}

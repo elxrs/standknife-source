@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2099961501, guid: e161fae64b898bc22624d03ed611378f, type: 3}
+  m_Name: PostSettingsIcon
+  m_EditorClassIdentifier:
+  settings:
+  - {fileID: 11400000, guid: 00103c6deabb319488cecb636fc14911, type: 2}
+  - {fileID: 11400000, guid: 581d787887e0d1243895dc1fe21d8aea, type: 2}
+  - {fileID: 11400000, guid: caa827d86a3cd9547a73a64e0d6b4bb4, type: 2}
+  - {fileID: 11400000, guid: 1e5f23cb7f0905e4d9a57046b61af180, type: 2}

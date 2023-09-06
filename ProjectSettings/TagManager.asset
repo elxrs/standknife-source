@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ramp
+  - EnemyHead
+  - EnemyBody
+  - EnemyLegs
+  - ButtonPerecl
+  - ButtonLeft_Priz
+  - ButtonRight_Priz
+  - ButtonLeft_Game
+  - ButtonRight_Game
+  - ButtonLeft_Timer
+  - ButtonRight_Timer
+  - ButtonLeft_Timer2
+  - ButtonRight_Timer2
+  - ButtonRight2_Game
+  - Bullet
+  - unknown_20002
+  - unknown_20007
+  - unknown_20006
+  - unknown_20001
+  - unknown_20004
+  - unknown_20010
+  - unknown_20011
+  - unknown_20008
+  - unknown_20005
+  - unknown_20022
+  - unknown_20045
+  - unknown_20044
+  - unknown_20043
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Weapon
+  - Enemy
+  - Player
+  - PlayerTrigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
