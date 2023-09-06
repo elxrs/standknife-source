@@ -13,3 +13,6 @@ My contacts:
 [Discord](https://discord.gg/Tem6FESgpn)
 
 [Telegram Channel](https://t.me/elyxLoader)
+
+
+[Video Review](https://youtu.be/59EL9Og1qyk?si=q5ZrOAcbEDiOlBVe)
