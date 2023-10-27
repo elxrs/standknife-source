@@ -10,8 +10,6 @@ My contacts:
 
 [Telegram](https://t.me/elyxorus)
 
-[Discord](https://discord.gg/Tem6FESgpn)
-
 [Telegram Channel](https://t.me/elyxLoader)
 
 
